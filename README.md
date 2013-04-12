@@ -5,18 +5,14 @@ The vim plugin shapes json string to human readable shape.
     
 This text :
 
-<code>
 { foo: "lorem", bar: "ipsum" }  
-</code>
 
 is converted to the human readable text :  
 
-<code>  
 {  
     foo: "lorem",  
     bar: "ipsum"  
 }
-</code>
 
 How to use
 =================
