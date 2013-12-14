@@ -5,19 +5,19 @@ The vim plugin shapes json string to human readable shape.
     
 This text :
 
-{ foo: "lorem", bar: "ipsum" }  
+    { foo: "lorem", bar: "ipsum" }  
 
 is converted to the human readable text :  
 
-{  
-    foo: "lorem",  
-    bar: "ipsum"  
-}
+    {  
+        foo: "lorem",  
+        bar: "ipsum"  
+    }
 
 How to use
 =================
 
-Visual selecting json text and type ,p .  
+Visual selecting json text and type <Leader>p .  
 
 Install
 =================
